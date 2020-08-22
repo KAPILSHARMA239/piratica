@@ -4,6 +4,8 @@ kheer
 pasta
 burger
 palak panner
+rajma
+pizza
 
 
 
